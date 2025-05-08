@@ -1,8 +1,8 @@
-package guru.springframework.sfgrestbrewery.repositories;
+package litwnb.springframework.restbrewery.repositories;
 
 
-import guru.springframework.sfgrestbrewery.domain.Beer;
-import guru.springframework.sfgrestbrewery.domain.BeerStyleEnum;
+import litwnb.springframework.restbrewery.domain.Beer;
+import litwnb.springframework.restbrewery.domain.BeerStyleEnum;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -1,4 +1,4 @@
-package guru.springframework.sfgrestbrewery.domain;
+package litwnb.springframework.restbrewery.domain;
 
 
 public enum BeerStyleEnum {

@@ -1,8 +1,8 @@
-package guru.springframework.sfgrestbrewery.bootstrap;
+package litwnb.springframework.restbrewery.bootstrap;
 
-import guru.springframework.sfgrestbrewery.domain.Beer;
-import guru.springframework.sfgrestbrewery.domain.BeerStyleEnum;
-import guru.springframework.sfgrestbrewery.repositories.BeerRepository;
+import litwnb.springframework.restbrewery.domain.Beer;
+import litwnb.springframework.restbrewery.domain.BeerStyleEnum;
+import litwnb.springframework.restbrewery.repositories.BeerRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;
@@ -12,9 +12,6 @@ import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.util.Random;
 
-/**
- * Created by jt on 3/7/21.
- */
 @Slf4j
 @RequiredArgsConstructor
 @Component

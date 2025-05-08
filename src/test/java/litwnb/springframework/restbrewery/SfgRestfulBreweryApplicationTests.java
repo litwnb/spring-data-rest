@@ -1,4 +1,4 @@
-package guru.springframework.sfgrestbrewery;
+package litwnb.springframework.restbrewery;
 
 
 import org.junit.jupiter.api.Test;
